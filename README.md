@@ -1,4 +1,4 @@
-  # Hey, There.         <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="70" />
+  # Hey,        <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="70" />
      
  
  
