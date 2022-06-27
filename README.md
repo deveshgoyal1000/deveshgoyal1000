@@ -26,8 +26,8 @@
 
 ![image](https://user-images.githubusercontent.com/93080269/175566548-306dcb48-d75d-4ae6-b007-c03d3c180ac8.png)
 ![image](https://user-images.githubusercontent.com/93080269/175566378-4e471baa-3e1d-46c6-9f43-6d73b425205e.png)
-![image](https://user-images.githubusercontent.com/93080269/175567660-26d42a83-7234-444d-960a-f0c59b699707.png)
 ![image](https://user-images.githubusercontent.com/93080269/175567686-c5da7bf3-ba61-487d-86f2-a536561ffb11.png)
+<a href="url"><img src="http://user-images.githubusercontent.com/93080269/175567660-26d42a83-7234-444d-960a-f0c59b699707.png" height="48" width="48" ></a>
 
 ## Connect with me:
 ![image](https://user-images.githubusercontent.com/93080269/175568881-c09d9090-c08c-4c26-9592-dc3030dd8759.png)
