@@ -17,7 +17,7 @@
 
 :man_technologist: All of my projects are available at My GitHub
 
-:mailbox_with_mail: Mailbox My email : deveshgoyal1000@gmail.com
+:mailbox_with_mail: Mailbox My email : deveshgoyal00@gmail.com
 
 :trollface: I play Football and table tennis in my free time.
 
