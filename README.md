@@ -14,6 +14,7 @@
 
 :books: I’m currently learning Devops  
 
+ 
  💻I have some sound knowledge of Python Developmentand
 
 :man_technologist: All of my projects are available at My GitHub
