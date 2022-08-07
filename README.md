@@ -3,25 +3,14 @@
  
  
  
-  My name is Devesh Goyal I'm a engineering student from India.I am passionate about open-source and learning new technologies. I have good knowledge of python and made some projects in python language. I am familiar with java languages and Linux OS. and I am currently learning DevOps. I got selected in SSOC (Social Summer Of Code).
-
+  My name is Devesh Goyal I'm a engineering student from India.I am passionate about open-source and learning new technologies. I have good knowledge of python and made some projects in python language. I am familiar with java languages and Linux OS. and I am currently learning DevOps.
                                                       
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="px"> 
  
 	
-## About Me
 
+:trollface: Mailbox My email : deveshgoyal00@gmail.com
 
-:books: I’m currently learning Devops  
-
- 
- 💻I have some sound knowledge of Python Development
-
-:man_technologist: All of my projects are available at My GitHub
-
-:mailbox_with_mail: Mailbox My email : deveshgoyal00@gmail.com
-
-:trollface: I play Football and table tennis in my free time.
 
 
 ## Languages and Tools:
