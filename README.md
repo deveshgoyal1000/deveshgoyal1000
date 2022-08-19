@@ -9,7 +9,7 @@
  
 	
 
-:trollface: Mailbox My email : deveshgoyal00@gmail.com
+:trollface: My email : deveshgoyal00@gmail.com
 
 
 
