@@ -4,11 +4,11 @@
  
  I am Devesh Goyal an engineering student from India.I am passionate about open-source and learning new technologies. I have good knowledge of python language and I   have made some projects in python. I am familiar with java languages and Linux OS. and I am currently learning DevOps.
                                                       
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="px"> 
+  
  
 	
 
-:trollface: My email : deveshgoyal00@gmail.com
+💬 Get in touch : devesh.21bcon427@jecrcu.edu.in
 
 
 
@@ -28,17 +28,14 @@
 
 
 
-![68747470733a2f2f646576656c6f7065722e616b616d61692e636f6d2f73697465732f64656661756c742f66696c65732f323031382d30372f6465766f7073253230253238312532392e676966](https://user-images.githubusercontent.com/93080269/175954910-ffa6c2c9-6d09-44ce-8052-609fa72eb481.gif)
 
 
 
 
 
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="px">
 
 
 
-## .                                                                                                                                                   
-
-![gitartwork](https://user-images.githubusercontent.com/93080269/184208780-b539808a-fe05-4121-8a64-be5c57508841.svg)
 
