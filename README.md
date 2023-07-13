@@ -2,7 +2,7 @@
      
  
  
- I am Devesh Goyal an engineering student from India.I am passionate about open-source and learning new technologies. I have good knowledge of python language and I   have made some projects in python. I am familiar with java languages and Linux OS. and I am currently learning DevOps.
+ I am Devesh Goyal an engineering student from India.I am passionate about open-source and learning new technologies. I am familiar with Java, Python,Html, Css. and I am currently learning DevOps.
                                                       
   
  
