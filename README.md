@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshgoyal1000&show_icons=true&locale=en&layout=compact" alt="deveshgoyal1000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deveshgoyal1000&show_icons=true&locale=en" alt="deveshgoyal1000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshgoyal1000&" alt="deveshgoyal1000" /></p>
