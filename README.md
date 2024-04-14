@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Goyal</h1>
-<h3 align="center">A passionate Engineering undergrad from India</h3>
+<h3 align="center">A passionate engineer </h3>
 
+![318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f](https://github.com/Harsh12Codes/Harsh12Codes/assets/167000549/897e4b57-50b5-4be8-88c1-e274921bf546)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshgoyal1000" alt="deveshgoyal1000" /></a> </p>
 
