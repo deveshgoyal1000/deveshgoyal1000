@@ -24,4 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deveshgoyal1000&" alt="deveshgoyal1000" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tianosouza&label=Profile%20views&color=0e75b6&style=flat" alt="tianosouza" /> </p>
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
