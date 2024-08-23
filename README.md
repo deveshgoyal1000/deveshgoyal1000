@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshgoyal1000" alt="deveshgoyal1000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/deveshhere_" target="blank"><img src="https://img.shields.io/twitter/follow/deveshhere_?logo=twitter&style=for-the-badge" alt="deveshhere_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deveshcodes" target="blank"><img src="https://img.shields.io/twitter/follow/deveshcodes?logo=twitter&style=for-the-badge" alt="deveshcodes" /></a> </p>
 
 - 💬 Ask me about **DevOps,Cloud Computing, Software engineering**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deveshhere_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deveshcodes" height="30" width="40" /></a>
+<a href="https://twitter.com/deveshcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deveshcodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devesh-goyal1000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devesh-goyal1000/" height="30" width="40" /></a>
 </p>
 
