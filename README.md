@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps,Cloud Computing, Software engineering**
 
-- 📫 How to reach me **devesh.21bcon427@jecrcu.edu.in**
+- 📫 How to reach me **deveshgoyal155@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
